@@ -1,0 +1,32 @@
+{
+  "name": "web3-101-checkandget-implement",
+  "version": "1.0.0",
+  "description": "Implement technologies seamlessly with step-by-step guides and tutorials.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starstruckman/web3-101-checkandget-implement"
+  },
+  "author": "starstruckman",
+  "license": "MIT",
+  "dependencies": {
+    "web3-101-checkandget": "1.0.0",
+    "web3-101-checkandget-implement": "1.0.0",
+    "redux": "1.0.0",
+    "async": "1.0.0",
+    "react-dom": "1.0.0",
+    "webpack": "1.0.0",
+    "mysql": "1.0.0",
+    "moment": "1.0.0",
+    "multer": "1.0.0",
+    "bcrypt": "1.0.0",
+    "commander": "1.0.0",
+    "helmet": "1.0.0",
+    "axios": "1.0.0",
+    "mocha": "1.0.0",
+    "react-redux": "1.0.0"
+  }
+}
